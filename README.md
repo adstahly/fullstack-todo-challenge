@@ -59,8 +59,8 @@ Follow these steps to get the backend server running:
 
 1.  **Clone the Repository (if applicable):**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-url>/todo-backend
+    git clone <https://github.com/adstahly/fullstack-todo-challenge>
+    cd <https://github.com/adstahly/fullstack-todo-challenge>/todo-backend
     ```
     If you already have the `todo-backend` folder, navigate into it:
     ```bash
